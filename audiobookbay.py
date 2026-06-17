@@ -31,7 +31,6 @@ class audiobookbay(object):
     urls = [
         'http://theaudiobookbay.se/',
         'http://audiobookbay.fi/',
-        'http://audiobookbay.is/',
         'http://audiobookbay.lu/'
     ]
 
